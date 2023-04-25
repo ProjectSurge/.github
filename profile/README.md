@@ -1,4 +1,4 @@
-# SurgeBrawlTeam
+# ProjectSurge
 
 ## Who are you?
 We are developers.
